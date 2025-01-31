@@ -17,8 +17,7 @@ La aplicación utiliza `ArSceneView` para renderizar los modelos 3D en tiempo re
 ![WhatsApp Image 2025-01-10 at 3 39 27 PM](https://github.com/user-attachments/assets/d5f3eaf7-8cd0-424d-82d6-852ba6b3e607)
 ![WhatsApp Image 2025-01-10 at 3 39 28 PM](https://github.com/user-attachments/assets/765fdccb-25d6-4501-a55e-832fc587f64c)
 
-##Integrantes 
--Alejandro Quiroz
--Kevin Coloma
--Sebastián Coronado
--Isaac León
+Integrantes:
+-Kevin Coloma, Isaac León, Carlos Ushiña, Cristian Usiña, Alejandro Quiroz, Lenin Masapanta y Sebastián Coronado
+
+#Documentación del Proyecto: Aplicación de Realidad Aumentada para la Escuela Politécnica Nacional (EPN)
