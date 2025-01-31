@@ -72,6 +72,11 @@ Etapa 3: Optimización y Funcionalidades Avanzadas (1 semana)
 4. Pruebas en Dispositivos Reales:
 •	Realizamos pruebas exhaustivas en dispositivos Android de diferentes gamas para asegurarnos de que la app funciona correctamente, especialmente en términos de rendimiento de RA y carga de modelos 3D.
 
+MODELO DE PRUEBA
+
+![image](https://github.com/user-attachments/assets/423a62ae-6204-47c8-926f-8b42c0183f44)
+
+
 Etapa 4: Presentación y Entrega 
 1. Generar el Archivo APK:
 •	Generamos el archivo APK final para distribución e instalación en dispositivos Android.
