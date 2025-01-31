@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace 'com.xperiencelabs.arapp'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.xperiencelabs.arapp"
