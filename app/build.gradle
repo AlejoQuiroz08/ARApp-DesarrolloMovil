@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace 'com.xperiencelabs.arapp'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.xperiencelabs.arapp"
         minSdk 29
-        targetSdk 33
+        targetSdk 34
         versionCode 1
         versionName "1.0"
 
@@ -44,7 +44,7 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
     implementation(platform("com.google.firebase:firebase-bom:33.8.0"))
     // Implementacion de la autenticacion Firebase
-    implementation("com.google.firebase:firebase-auth")
+    implementation("com.google.firebase:firebase-auth-ktx:23.1.0")
     // 3D and ARCore
     implementation 'io.github.sceneview:arsceneview:0.10.0'
 
